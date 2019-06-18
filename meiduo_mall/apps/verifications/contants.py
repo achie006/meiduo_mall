@@ -1,0 +1,1 @@
+SMS_CODE_REDIS_EXPIRES = 300  # 短信验证码的过期时间单位秒
